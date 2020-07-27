@@ -1,0 +1,1 @@
+Array. es una estructura de datos que permite almacenar datos del mismo tipo.
