@@ -1,0 +1,12 @@
+Objetos: los objetos contienen mucha informacion sobre una sola cosa.
+
+Propiedades:es una asociacion entre un nombre y un valor, este valor puede funcionar como una variable.
+
+Metodos: son funciones guardadas en un objeto.
+
+Blucle for...in: recorre las propiedades de un objeto y el vlor final sera el de la vista final.
+
+Notación de puntos -  notación de corchetes: 
+es mejor hacer uso de corchetes.
+con los corchetes se puede acceder a propiedades que tienen un espacio, esto no se permite en la notacion de punto.
+tembien se puede acceder a la propiedad de otra propiedad.
