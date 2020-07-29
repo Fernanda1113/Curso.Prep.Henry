@@ -1,0 +1,4 @@
+Prototype: El prototipo es el recultado final a cadenas de objetos, cada objeto tiene una propiedad privada,
+que tiene un enlace a otro objeto llamado protototipo, cada prototipo tiene su prototipo, esto forma una 
+cadena de prototipos.
+_constructors_: Es un elemento de una clase y tiene como objetivo obligar a controlar como se inicia una instancia de una clase determinada.
