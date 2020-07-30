@@ -1,0 +1,1 @@
+Callback: Es un función que recibe otra función como argumento y la ejecuta.
